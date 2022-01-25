@@ -1,4 +1,25 @@
 # Reproducing Heterogenous Scaling Laws for Research Institutions
+
+### Cite paper as: 
+> Burghardt, K.A., He, Z., Percus, A.G. et al. The emergence of heterogeneous scaling in research institutions. Commun Phys 4, 189 (2021). https://doi.org/10.1038/s42005-021-00693-2
+
+*Bibtex:*
+> @article{Burghardt2021,  
+	author = {Burghardt, Keith A. and He, Zihao and Percus, Allon G. and Lerman, Kristina},  
+	da = {2021/09/02},  
+	doi = {10.1038/s42005-021-00693-2},  
+	isbn = {2399-3650},  
+	journal = {Communications Physics},  
+	number = {1},  
+	pages = {189},  
+	title = {The emergence of heterogeneous scaling in research institutions},  
+	ty = {JOUR},  
+	url = {https://doi.org/10.1038/s42005-021-00693-2},  
+	volume = {4},  
+	year = {2021},  
+}
+
+
 ## Code for preparation and analysis of Microsoft Academic Graph (vintage 2018)
 
 ### All code is for Python 3
